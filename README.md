@@ -11,7 +11,7 @@
   * ["КОННИ" атакует российский дипломатический сектор новыми версиями вредоносных программ-имплантов](https://github.com/Jarenierinili/Task/blob/main/Konni_targeting_Russian_diplomatic_sector.pdf)
   * [Встреча с «министром»](https://www.fortinet.com/blog/threat-research/konni-rat-phishing-email-deploying-malware)
 - RedCurl
-  * (Кудри примелькались: кибершпионы из RedCurl атаковали банк от имени популярного маркетплейса)[https://www.facct.ru/blog/redcurl-2023/]
+  * [Кудри примелькались: кибершпионы из RedCurl атаковали банк от имени популярного маркетплейса](https://www.facct.ru/blog/redcurl-2023/)
 - Tonto Team
   * [Российские организации все чаще подвергаются атакам со стороны китайских APT](https://www.sentinelone.com/labs/targets-of-interest-russian-organizations-increasingly-under-attack-by-chinese-apts/)
   * [Изучение TTPs продвинутого угрожающего субъекта управляющего крупной инфраструктурой](https://vb2020.vblocalhost.com/uploads/VB2020-06.pdf)
