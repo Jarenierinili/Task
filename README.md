@@ -6,8 +6,7 @@
   * [Новая группировка Quartz Wolf применяет отечественное ПО в атаках на гостиничный бизнес
 ](https://bi.zone/expertise/blog/novaya-gruppirovka-quartz-wolf-primenyaet-otechestvennoe-po-v-atakakh-na-gostinichnyy-biznes/?utm_source=telegram&utm_medium=messenger&utm_campaign=novaya-gruppirovka-quartz-wolf-primenyaet-otechestvennoe-po-v-atakakh-na-gostinichnyy-biznes&utm_content=19.07.2023&utm_term=bi.zone)
 - Red Wolf
-  * [Волк-шпион, выйди вон! BI.ZONE вышла на новый след группировки Red Wolf
-](https://habr.com/ru/companies/bizone/articles/743908/)
+  * [Волк-шпион, выйди вон! BI.ZONE вышла на новый след группировки Red Wolf](https://habr.com/ru/companies/bizone/articles/743908/)
 - Konni
   * ["КОННИ" атакует российский дипломатический сектор новыми версиями вредоносных программ-имплантов](https://github.com/Jarenierinili/Task/blob/main/Konni_targeting_Russian_diplomatic_sector.pdf)
   * [Встреча с «министром»](https://www.fortinet.com/blog/threat-research/konni-rat-phishing-email-deploying-malware)
