@@ -33,3 +33,4 @@
 # Исследования
 
 * bi.zone - [3 из 4 входящих писем для российских компаний — нелегитимные](https://bi.zone/news/3-iz-4-vkhodyashchikh-pisem-dlya-rossiyskikh-kompaniy-nelegitimnye/?utm_source=telegram&utm_medium=messenger&utm_campaign=3-iz-4-vkhodyashchikh-pisem-dlya-rossiyskikh-kompaniy-nelegitimnye&utm_content=25.07.2023&utm_term=bi.zone)
+* Positive Technologies - [Актуальные киберугрозы: II квартал 2023 года](https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2023-q2/)
